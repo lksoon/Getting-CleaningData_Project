@@ -1,4 +1,4 @@
-# "Project for Getting and Cleaning Data"
+# Project for Getting and Cleaning Data
 
 
 The goal of this project is to prepare tidy data that can be used for later analysis. 
